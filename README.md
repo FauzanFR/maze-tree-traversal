@@ -78,7 +78,6 @@ COLS_SIZE = 15         # Ukuran kolom labirin
 CELL_SIZE = 30         # Ukuran pixel per sel
 ENABLE_PAUSE = True    # Aktifkan fitur pause
 ```
-## Contoh Output
 
 ## Performa
 Program akan menampilkan perbandingan:
