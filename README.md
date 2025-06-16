@@ -32,8 +32,8 @@ Sebuah program Python yang menghasilkan labirin acak dan menyelesaikannya menggu
 ## Instalasi
 1. Clone repositori ini:
 ```bash
-git clone 
-cd maze-solver
+git clone https://github.com/FauzanFR/maze-tree-traversal
+cd maze-tree-traversal
 ```
 2. Install dependensi:
 ```bash
