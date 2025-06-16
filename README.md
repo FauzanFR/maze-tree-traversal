@@ -43,7 +43,7 @@ pip install pygame
 ## Cara Menggunakan
 Jalankan program utama:
 ```bash
-python maze3.py
+python maze.py
 ```
 
 ## Kontrol
